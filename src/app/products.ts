@@ -8,9 +8,9 @@ export interface Product {
 export const products = [
   {
     id: 1,
-    name: 'charlie',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Christian Louboutin Red Bottom Heels',
+    price: 795,
+    description: 'Christian Louboutin half Orsay Iriza pump in black shiny nappa leather is a timeless classic. Featuring a sensational cutout vamp and 85mm of stiletto heel for an exquisite silhouette of the pointy-toe pump. Expertly placed curves revealing the foot’s natural arch ensure every confident step.'
   },
   {
     id: 2,
