@@ -20,9 +20,9 @@ export const products = [
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: 'Old reliable.'
+    name: 'Rainbow Sandals',
+    price: 66.99,
+    description: 'This beautiful Luxury Leather design comes with the traditional 1/2" narrow straps starting at the box X toe piece fit to the top sole for comfort and functionality! The best feature of this new line is that there is virtually zero break in process.'
   }
 ];
 
