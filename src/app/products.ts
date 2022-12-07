@@ -14,9 +14,9 @@ export const products = [
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Off-White x Air Jordan 1 Retro High OG ‘UNC’',
+    price: 169,
+    description: "Inspired by the alma mater of Michael Jordan, the Off-White x Air Jordan 1 Retro High OG 'UNC' holds a classic structure of two tones, filtered through the distinctive design prism of Virgil Abloh. The method includes taking a white leather foundation with blue overlays of dark powder and adding embellishments that express an expressive, handmade value. They include separated wings, a floating Swoosh, and text lines on the quarter panel on the medial side delineating the shoe's taxonomy."
   },
   {
     id: 3,
