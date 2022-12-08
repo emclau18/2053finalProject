@@ -23,7 +23,49 @@ export const products = [
     name: 'Rainbow Sandals',
     price: 66.99,
     description: 'This beautiful Luxury Leather design comes with the traditional 1/2" narrow straps starting at the box X toe piece fit to the top sole for comfort and functionality! The best feature of this new line is that there is virtually zero break in process.'
-  }
+  },
+  {
+    id: 4,
+    name: 'Coca-Cola Crocs',
+    price: 55,
+    description: 'It’s the iconic clog that started a comfort revolution around the world! The irreverent go-to comfort shoe that you’re sure to fall deeper in love with day after day. Crocs Classic Clogs offer lightweight Iconic Crocs Comfort™, a color for every personality, and an ongoing invitation to be comfortable in your own shoes. This version features 2 classics coming together, with iconic Coca-Cola graphics on our iconic Classic Clog.'
+  },
+  {
+    id: 5,
+    name: "Nike Air Force 1 High '07",
+    price: 125,
+    description: "Nike's iconic Air Force 1 High '07 is everything you know best: crisp overlays, bold accents, and just the right amount of flash to let you shine. The padded, high-cut collar has a classic hook-and-loop closure for heritage b-ball comfort, and perforations on the toe keep you cool. For more than 35 years it's given you comfort and durability straight out of the box. Durably stitched overlays, pristine leather, and an easy to break-in design; it's got you covered uptown and downtown."
+  },
+  {
+    id: 6,
+    name: 'Adidas Top Ten',
+    price: 100,
+    description: 'Aim for the top in the Top Ten RB Casual Basketball Sneakers! One of adidas’ masterpieces, the adidas Top Ten was the go-to silhouette of the ten key B-ball players in the ‘70s – hence, the name. Almost 40 years in the running, these re-launched iterations remain fresh and are back to slay the off-court scene with their dashing looks. High on performance and style, these sneakers continue to boast adidas’ legacy all the way. Crafted in part with recycled content generated from production waste, these icons make eco-conscious fashion your bold style statement. Featuring a combination of classic elements and heritage-inspired details, the Top Ten RB Casual Basketball Sneakers are back in action and are better than ever.'
+  },
+  {
+    id: 7,
+    name: 'shoe 8',
+    price: 1,
+    description: 'description'
+  },
+  {
+    id: 8,
+    name: 'shoe 7',
+    price: 1,
+    description: 'description'
+  },
+  {
+    id: 9,
+    name: 'shoe 9',
+    price: 1,
+    description: 'description'
+  },
+  {
+    id: 10,
+    name: 'shoe 10',
+    price: 1,
+    description: 'description'
+  },
 ];
 
 
