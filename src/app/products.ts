@@ -3,6 +3,7 @@ export interface Product {
   name: string;
   price: number;
   description: string;
+  image: HTMLImageElement;
 }
 
 export const products = [
@@ -11,6 +12,7 @@ export const products = [
     name: 'Christian Louboutin Red Bottom Heels',
     price: 795,
     description: 'Christian Louboutin half Orsay Iriza pump in black shiny nappa leather is a timeless classic. Featuring a sensational cutout vamp and 85mm of stiletto heel for an exquisite silhouette of the pointy-toe pump. Expertly placed curves revealing the foot’s natural arch ensure every confident step.'
+    image: <img src=""
   },
   {
     id: 2,
