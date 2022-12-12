@@ -3,7 +3,6 @@ export interface Product {
   name: string;
   price: number;
   description: string;
-  image: HTMLImageElement;
 }
 
 export const products = [
@@ -12,7 +11,6 @@ export const products = [
     name: 'Christian Louboutin Red Bottom Heels',
     price: 795,
     description: 'Christian Louboutin half Orsay Iriza pump in black shiny nappa leather is a timeless classic. Featuring a sensational cutout vamp and 85mm of stiletto heel for an exquisite silhouette of the pointy-toe pump. Expertly placed curves revealing the foot’s natural arch ensure every confident step.'
-    image: <img src=""
   },
   {
     id: 2,
@@ -48,13 +46,13 @@ export const products = [
     id: 7,
     name: "Women's Cloud X Low Top Running Sneakers",
     price: 139.99,
-    description: "CloudTec® elements in the outsole are reinforced with HelionTM Superfoam for cushioning without compromise in a shoe that's constantly responsivedescription"
+    description: "CloudTec® elements in the outsole are reinforced with HelionTM Superfoam for cushioning without compromise in a shoe that's constantly responsive."
   },
   {
     id: 8,
     name: 'V-10 CWL WHITE MATCHA (Vejas)',
     price: 195,
-    description: "C.W.L.: Cotton Worked as Leather. This material is a vegan alternative to leather, with a very similar appearance and excellent resistance. A 100% organic cotton canvas, coated with P.U., corn starch and ricinus oil. 54 % bio-basedtion"
+    description: "C.W.L.: Cotton Worked as Leather. This material is a vegan alternative to leather, with a very similar appearance and excellent resistance. A 100% organic cotton canvas, coated with P.U., corn starch and ricinus oil."
   },
   {
     id: 9,

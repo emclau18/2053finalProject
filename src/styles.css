@@ -2,7 +2,7 @@
 
 * {
   font-family: 'Roboto', Arial, sans-serif;
-  color: #616161;
+  color: #070505;
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -85,7 +85,7 @@ label {
 }
 
 .button:hover, button:hover {
-  opacity: 0.8;
+  opacity: 0.9;
   font-weight: normal;
 }
 
@@ -120,7 +120,7 @@ app-top-bar {
 }
 
 app-top-bar h1 {
-  color: rgba(39, 77, 44, 0.952);
+  color: rgba(3, 12, 4, 0.952);
   margin: 0;
 }
 
